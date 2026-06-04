@@ -30,8 +30,10 @@ The warehouse supports analytical reporting on sales performance, vendors, produ
 ## 💡Views
 
 - category_revenue_summary
+- vendor_revenue_summary
+- date_revenue_summary
 
-## Future Enhancements
+## 💡Future Enhancements
 
 - Python ETL pipeline
 - Automated data loading
