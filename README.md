@@ -1,5 +1,4 @@
 # Retail-Data-Warehouse
-# Retail Data Warehouse
 
 ## Project Overview
 
@@ -14,12 +13,12 @@ The warehouse supports analytical reporting on sales performance, vendors, produ
 
 ## 💡Data Model
 
-### 💡Dimension Tables
+### Dimension Tables
 - dim_product
 - dim_vendor
 - dim_date
 
-### 💡Fact Tables
+### Fact Tables
 - fact_sales
 
 ## Example Business Questions
