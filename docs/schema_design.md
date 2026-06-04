@@ -25,7 +25,7 @@ dim_vendor ------ fact_sales ------ dim_date
 
 ---
 
-# Dimension Tables
+# 💡 Dimension Tables
 
 ## dim_product
 
@@ -76,7 +76,7 @@ Stores calendar attributes used for time-based analysis. Enables trend analysis,
 
 ---
 
-# Fact Table
+# 💡Fact Table
 
 ## fact_sales
 
@@ -96,7 +96,7 @@ Stores transactional sales metrics. Captures measurable business events and supp
 
 ---
 
-# Analytical Capabilities
+# 💡Analytical Capabilities
 
 The warehouse supports business questions such as:
 
@@ -108,7 +108,7 @@ The warehouse supports business questions such as:
 
 ---
 
-# Implemented Views
+# 💡Implemented Views
 
 ## category_revenue_summary
 
@@ -124,26 +124,14 @@ Aggregates revenue by date.
 
 ---
 
-# Technologies Used
+# 💡Technologies Used
 
 * PostgreSQL
 * SQL
 * pgAdmin
-* Git
-* GitHub
 
----
 
-# Future Enhancements
 
-* Python ETL pipeline using Pandas
-* Automated warehouse loading from CSV files
-* Data quality validation checks
-* Incremental data loading
-* Power BI dashboard integration
-* Cloud deployment (AWS/Azure)
-
----
 
 
 ```
