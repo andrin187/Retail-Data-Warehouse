@@ -1,3 +1,5 @@
+-- Product Data
+
 INSERT INTO dim_product(
     product_name,
     product_type,
