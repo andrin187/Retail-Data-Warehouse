@@ -1,3 +1,5 @@
+-- Revenue by Category View
+
 CREATE VIEW category_revenue_summary AS
 SELECT
     category,
