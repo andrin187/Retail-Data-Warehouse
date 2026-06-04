@@ -61,7 +61,7 @@ Stores vendor information. Supports vendor performance reporting and supplier an
 
 ## dim_date
 
-Stores calendar attributes used for time-based analysis. Enables trend analysis, monthly reporting, and time-series analytics.****
+Stores calendar attributes used for time-based analysis. Enables trend analysis, monthly reporting, and time-series analytics.
 
 | Column    | Data Type   | Description   |
 | --------- | ----------- | ------------- |
