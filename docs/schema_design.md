@@ -29,7 +29,7 @@ dim_vendor ------ fact_sales ------ dim_date
 
 ## dim_product
 
-Stores descriptive product information.
+Stores descriptive product information. Provides product attributes used for sales analysis by category, supplier, and product type.
 
 | Column       | Data Type     | Description      |
 | ------------ | ------------- | ---------------- |
@@ -40,9 +40,6 @@ Stores descriptive product information.
 | category     | VARCHAR(100)  | Product category |
 | supplier     | VARCHAR(100)  | Product supplier |
 
-### Business Purpose
-
-Provides product attributes used for sales analysis by category, supplier, and product type.
 
 ---
 
